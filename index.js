@@ -1,2 +1,2 @@
 console.log("initial commit");
-console.log("second commit");
+console.log("commit edited from fork");
